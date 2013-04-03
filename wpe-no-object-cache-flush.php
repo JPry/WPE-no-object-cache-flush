@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: WPE No Object Cache Flush
+ * Plugin URI: https://github.com/JCPry/WPE-no-object-cache-flush
  * Description: Prevents the Object Cache from being purged on login/logout. By extentsion, prevents transients on the site from being cleared when someone logs in or logs out.
  * Version: 1.0
  * Author: Jeremy Pry <jeremy@wpengine.com>
